@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameInfinite", "GuessingGameInfinite\GuessingGameInfinite.csproj", "{C1EF4F97-99B9-455C-A925-6C78A0D12473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberguesser3times", "numberguesser3times\numberguesser3times.csproj", "{3FCA8CEF-250B-4554-A9B3-881DB6692B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{E3D5AFA5-3982-45F5-A5C6-7F2EA8882B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONETOHUNDRED", "ONETOHUNDRED\ONETOHUNDRED.csproj", "{635AD749-AB71-42A0-8EC4-F439E8A1B25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUNDREDTOONE", "HUNDREDTOONE\HUNDREDTOONE.csproj", "{72751E37-9440-416F-B056-6E7A189E0409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuackQuackQuack", "QuackQuackQuack\QuackQuackQuack.csproj", "{6E5DE68D-7D1C-4E96-B5E6-D7DCD04110A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1EF4F97-99B9-455C-A925-6C78A0D12473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1EF4F97-99B9-455C-A925-6C78A0D12473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1EF4F97-99B9-455C-A925-6C78A0D12473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1EF4F97-99B9-455C-A925-6C78A0D12473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCA8CEF-250B-4554-A9B3-881DB6692B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCA8CEF-250B-4554-A9B3-881DB6692B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCA8CEF-250B-4554-A9B3-881DB6692B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCA8CEF-250B-4554-A9B3-881DB6692B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D5AFA5-3982-45F5-A5C6-7F2EA8882B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D5AFA5-3982-45F5-A5C6-7F2EA8882B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D5AFA5-3982-45F5-A5C6-7F2EA8882B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D5AFA5-3982-45F5-A5C6-7F2EA8882B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635AD749-AB71-42A0-8EC4-F439E8A1B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635AD749-AB71-42A0-8EC4-F439E8A1B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635AD749-AB71-42A0-8EC4-F439E8A1B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635AD749-AB71-42A0-8EC4-F439E8A1B25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72751E37-9440-416F-B056-6E7A189E0409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72751E37-9440-416F-B056-6E7A189E0409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72751E37-9440-416F-B056-6E7A189E0409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72751E37-9440-416F-B056-6E7A189E0409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5DE68D-7D1C-4E96-B5E6-D7DCD04110A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5DE68D-7D1C-4E96-B5E6-D7DCD04110A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5DE68D-7D1C-4E96-B5E6-D7DCD04110A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5DE68D-7D1C-4E96-B5E6-D7DCD04110A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EE6859-DD47-4A63-8013-9E60C0288EC9}
+	EndGlobalSection
+EndGlobal

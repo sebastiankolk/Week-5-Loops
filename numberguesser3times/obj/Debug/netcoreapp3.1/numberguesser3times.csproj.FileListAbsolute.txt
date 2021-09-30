@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.exe
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.deps.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\bin\Debug\netcoreapp3.1\numberguesser3times.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\numberguesser3times\obj\Debug\netcoreapp3.1\numberguesser3times.genruntimeconfig.cache

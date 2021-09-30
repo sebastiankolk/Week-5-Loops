@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.exe
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.deps.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\bin\Debug\netcoreapp3.1\HUNDREDTOONE.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\HUNDREDTOONE\obj\Debug\netcoreapp3.1\HUNDREDTOONE.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.exe
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.deps.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\bin\Debug\netcoreapp3.1\QuackQuackQuack.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.dll
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.pdb
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.genruntimeconfig.cache
+C:\Users\opilane\source\repos\logitpe21\GuessingGameInfinite\QuackQuackQuack\obj\Debug\netcoreapp3.1\QuackQuackQuack.csprojAssemblyReference.cache
